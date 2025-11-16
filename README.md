@@ -1,1 +1,17 @@
 # gestiongrupob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+victor franco quimi
