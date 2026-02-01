@@ -16,7 +16,6 @@
     </properties>
 
     <dependencies>
-
         <!-- JUnit: pruebas unitarias -->
         <dependency>
             <groupId>junit</groupId>
@@ -38,7 +37,6 @@
             <artifactId>gson</artifactId>
             <version>2.10.1</version>
         </dependency>
-
     </dependencies>
 
 </project>
